@@ -1,0 +1,1 @@
+# composer-branch-buddy-bug
