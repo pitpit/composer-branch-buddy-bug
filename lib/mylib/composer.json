@@ -1,0 +1,16 @@
+{
+    "name": "d.pitard/mylib",
+    "authors": [
+        {
+            "name": "Damien Pitard",
+            "email": "d.pitard@creads.org"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "branch-alias": {
+            "dev-develop": "2.x-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}

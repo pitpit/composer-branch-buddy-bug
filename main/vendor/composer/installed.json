@@ -1,0 +1,25 @@
+[
+    {
+        "name": "d.pitard/mylib",
+        "version": "dev-develop",
+        "version_normalized": "dev-develop",
+        "dist": {
+            "type": "path",
+            "url": "../lib/mylib",
+            "reference": "b6581cb305eeaf61c341b692c3e2b4d0a03e2b82"
+        },
+        "type": "library",
+        "extra": {
+            "branch-alias": {
+                "dev-develop": "2.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "authors": [
+            {
+                "name": "Damien Pitard",
+                "email": "d.pitard@creads.org"
+            }
+        ]
+    }
+]

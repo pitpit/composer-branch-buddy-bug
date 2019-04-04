@@ -1,0 +1,20 @@
+{
+    "name": "d.pitard/main",
+    "authors": [
+        {
+            "name": "Damien Pitard",
+            "email": "d.pitard@creads.org"
+        }
+    ],
+    "require": {
+        "d.pitard/mylib": "^2"
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../lib/mylib"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
